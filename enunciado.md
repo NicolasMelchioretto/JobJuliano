@@ -81,4 +81,4 @@ Seguem alguns exemplos de ferramentas.
 
 [5W2H - O que é e por que usar na sua empresa](https://www.sebrae-sc.com.br/blog/5w2h-o-que-e-para-que-serve-e-por-que-usar-na-sua-empresa)
 
-![PDCA no Brasil e no Japão](./assets/PDCA_BRJP.png)
+![PDCA no Brasil e no Japão](./PDCA_BRJP.png)
